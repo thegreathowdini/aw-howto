@@ -30,15 +30,15 @@ a repo of stuff we know about anywheel
 <a name="save"/>
 
 ## ways to save money
-0. by default, anywheel charges at $1/30 mins or part thereof
+0. by default, anywheel charges at \$1/30 mins or part thereof
 
-1. while using the app, you can get coupons for various reasons at various values (using an invite code gets you a $2 coupon). coupons offset trip fees and have these rules:
-	- you can only use one coupon at a time. hence, a $2 coupon covers a 1h trip, but 2x$1 coupons do not
+1. while using the app, you can get coupons for various reasons at various values (using an invite code gets you a \$2 coupon). coupons offset trip fees and have these rules:
+	- you can only use one coupon at a time. hence, a \$2 coupon covers a 1h trip, but 2x\$1 coupons do not
 	- even with a coupon, you still need positive balance (or pass--see below) to start a trip. in particular, you can't start a trip if you have $0 credit and just a $2 coupon
 	- to see your coupon, go to profile menu (top left of home screen), then 'credits', then 'my coupons'
 	- there's no need to apply a coupon manually. on ending a trip, anywheel automatically applies the oldest coupon you have that can cover the trip's cost
 
-2. you can also buy a pass. it's $6.9 for 7 days, $9.9 for 30 days, and $26.9 for 90 days. in the duration of a pass, the first 30 mins of any trip is free; after that, trips are charged at $.5/30 mins. passes have these rules:
+2. you can also buy a pass. it's 6.9 for 7 days, 9.9 for 30 days, and 26.9 for 90 days. in the duration of a pass, the first 30 mins of any trip is free; after that, trips are charged at .5/30 mins. passes have these rules:
 	- if you're on a pass, you don't need positive credit to start a trip, but you still need non-negative credit
 	- pass can be stacked with coupons--your trip cost will be calculated at pass rate, and the value of at most one coupon you have can be used to offset that value	
 	
@@ -47,7 +47,7 @@ a repo of stuff we know about anywheel
 	- 5 pts for sharing a trip that started in the last 72h
 	- 10 pts for a trip >5 mins, or >3 mins with the start and end locations not in the same area
 these points can be used to redeem passes and coupons
-	- 50 pts for $.5 coupon
+	- 50 pts for \$.5 coupon
 	- 300 pts for 1d pass
 	- 500 pts for 3d pass
 hence, if you're patient and diligent, you can ride for free: create an account, check in everyday for 60 days, use the 300 pts to get a 1d pass
@@ -57,11 +57,11 @@ at the home screen, the points stuff is at the mushroom-like thing in the top ri
 <a name="scenarios"/>
 
 ## what happens if...
-if you don't scan a parking QR code within 10 mins of locking the bike, you get a $5 penalty
+if you don't scan a parking QR code within 10 mins of locking the bike, you get a \$5 penalty
 
 if you lock the bike but are nowhere near a parking QR code, you have the option to 'unlock to repark'. click that, scan the qr of the bike. the ride time continues. on locking the bike again, the 10 mins parking timer resets
 
-if you cop a $5 penalty, or have parked at a legit location but the app is not accepting it, you can appeal. in the appeal function you need photos showing the locked bike near a parking qr, and the bike serial number must be visible
+if you cop a \$5 penalty, or have parked at a legit location but the app is not accepting it, you can appeal. in the appeal function you need photos showing the locked bike near a parking qr, and the bike serial number must be visible
 
 if you buy/redeem a pass while you are on a pass, the validity of the current pass is extended by the time of the new pass. ie., passes stack
 
