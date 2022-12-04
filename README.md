@@ -89,4 +89,4 @@ if you registered with a burner number, associate a facebook/gmail/apple account
 
 there's a way to get passes for points more cheaply. we won't disclose it publicly, but we'll share it with you if you ask
 
-[not workable] obike had a race condition vulnerability we exploited to win [one of their challenges](https://www.facebook.com/oBikeSG/photos/a.1890995971132541/2021431184755685/). trying the exploit on anywheel gets you a 1 month suspension
+[not workable] obike had a race condition vulnerability we exploited to win one of their challenges (thrice). trying the exploit on anywheel gets you a 1 month suspension
