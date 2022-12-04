@@ -20,7 +20,7 @@ a repo of stuff we know about anywheel
 
 5. you need credit to start a trip. to top up your credit, go to the profile menu (top left of home screen), click 'credits', then click 'top up'
 
-6. to start a trip, press scan to ride on the home screen, and scan the qr code on the bike. you need bluetooth and an internet connection
+6. to start a trip, click 'scan to ride' on the home screen, and scan the qr code on the bike. you need bluetooth and an internet connection
 
 7. to end a trip, lock the bike while bluetooth on your phone is on. the app on your phone now shows a 10 min countdown timer
 
