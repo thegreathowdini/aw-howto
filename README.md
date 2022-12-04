@@ -47,7 +47,7 @@ a repo of stuff we know about anywheel
 	- 5 pts for sharing a trip that started in the last 72h
 	- 10 pts for a trip >5 mins, or >3 mins with the start and end locations not in the same area
 these points can be used to redeem passes and coupons
-	- 50 pts for \$.5 coupon
+	- 50 pts for $.5 coupon
 	- 300 pts for 1d pass
 	- 500 pts for 3d pass
 hence, if you're patient and diligent, you can ride for free: create an account, check in everyday for 60 days, use the 300 pts to get a 1d pass
@@ -67,18 +67,26 @@ if you buy/redeem a pass while you are on a pass, the validity of the current pa
 
 if your balance is negative, you cannot open bikes even if you are on pass or have coupons. from here you have 3 options: (1) top up credit, min $10; (2) if the balance went negative because of a parking penalty, reverse the penalty by successful appeal; (3) start a new account
 
+trip charges are tabulated at the end of the trip. hence if a trip is started while on pass, and the pass expires during the trip, the first 30 mins of that trip are not free, and the trip is charged at $1/30 mins. conversely, if a pass is bought in the middle of a trip, the first 30 mins of that trip are free 
+
 <hr />
 <a name="tricks"/>
 
 ## tricks
 we usually get a pass when using anywheel on long cycling trips, parking and restarting every half hour at parking locations. if we make no mistakes, this means our trip costs the same as the pass (which could be free)
 
-scanning a QR code is not the only way to park--you can also manually enter the alphanumeric code of the parking location. you can find the code of the closest location by using 'find nearest parking area' when the parking timer comes up. if you are within 30m or so of the actual location (e.g., just across the road), the app allows you to park
+scanning a QR code is not the only way to park--you can also manually enter the alphanumeric code of the parking location. you can find the code of the closest location by using 'find nearest parking area' when the parking timer comes up. if you are within 30m or so of the actual location (e.g., just across the road), the app allows you to park. this is useful on cycling trips because it means we don't have to detour too far off our intended path to reset the 30 min timer
 
-scanning the QR code is not the only way to open a bike--you can also do it by entering the id of a bike, either the 10-digit one at the rear QR or the 'ANYxxxxx' one at the mudguard
+you can redeem coupons with points while a trip is ongoing, and any coupons that exist at a trip's end are applicable to that trip (even if those coupons didn't exist at the trip's start). hence, it is adviable to keep 50 points on standby, and buy a coupon if a ride is found to exceed 30 mins
+
+the trip time is only visible while the trip is ongoing or after the trip has ended--it is not visible after the bike is locked but the parking QR has yet to be scanned. hence, if you are unsure whether an ongoing ride has exceeded 30 mins, you should check the trip time, and buy a coupon if necessary, before locking the bike. if you have locked the bike and realised that you are unsure of the time, you should not proceed to scan the parking QR code; instead, you should 'unlock to repark' the bike to see the ride time and buy a coupon if necessary
+
+scanning the QR code is not the only way to open a bike--you can also do it by entering the id of a bike, either the 10-digit one at the rear QR or the 'ANYxxxxx' one at the mudguard. this is useful when you want to reset without getting off the bike
 
 points expire at the end of the calendar year, but pass vaidities can cross into new years. hence, cash out your points as passes near the end of the year
 
 if you registered with a burner number, associate a facebook/gmail/apple account w your anywheel account to secure access
 
 there's a way to get passes for points more cheaply. we won't disclose it publicly, but we'll share it with you if you ask
+
+[not workable] obike had a race condition vulnerability we exploited to win [one of their challenges](https://www.facebook.com/oBikeSG/photos/a.1890995971132541/2021431184755685/). trying the exploit on anywheel gets you a 1 month suspension
