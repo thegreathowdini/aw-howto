@@ -45,7 +45,7 @@ a repo of stuff we know about anywheel
 3. every day, you can get points for doing various things
 	- 5 pts for checking in
 	- 5 pts for sharing a trip that started in the last 72h
-	- 10 pts for a trip >5 mins, or >3 mins with the start and end locations not in the same area
+	- 10 pts for a trip >5 mins, or >3 mins with the start and end locations not in the same area<br>
 these points can be used to redeem passes and coupons
 	- 50 pts for $.5 coupon
 	- 300 pts for 1d pass
