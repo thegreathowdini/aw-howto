@@ -45,12 +45,13 @@ a repo of stuff we know about anywheel
 3. every day, you can get points for doing various things
 	- 5 pts for checking in
 	- 5 pts for sharing a trip that started in the last 72h
-	- 10 pts for a trip >5 mins, or >3 mins with the start and end locations not in the same area<br>
-these points can be used to redeem passes and coupons
-	- 50 pts for $.5 coupon
-	- 300 pts for 1d pass
-	- 500 pts for 3d pass
-hence, if you're patient and diligent, you can ride for free: create an account, check in everyday for 60 days, use the 300 pts to get a 1d pass
+	- 10 pts for a trip >5 mins, or >3 mins with the start and end locations not in the same area
+
+4. points can be used to redeem passes and coupons: 
+ 	- 50 pts for $.5 coupon
+ 	- 300 pts for 1d pass
+ 	- 500 pts for 3d pass
+hence, if you're patient and diligent, you can ride for free: create an account, check in everyday for 60 days, use the 300 pts to get a 1d pass.
 at the home screen, the points stuff is at the mushroom-like thing in the top right corner
 
 <hr />
