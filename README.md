@@ -51,7 +51,8 @@ a repo of stuff we know about anywheel
  	- 50 pts for $.5 coupon
  	- 300 pts for 1d pass
  	- 500 pts for 3d pass
-hence, if you're patient and diligent, you can ride for free: create an account, check in everyday for 60 days, use the 300 pts to get a 1d pass.
+
+hence, if you're patient and diligent, you can ride for free: create an account, check in everyday for 60 days, use the 300 pts to get a 1d pass<br>
 at the home screen, the points stuff is at the mushroom-like thing in the top right corner
 
 <hr />
